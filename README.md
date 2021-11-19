@@ -1,7 +1,5 @@
 - 👋 Aloha, I'm Jay
-- 👀 I’m interested in working with people who can probelm solve with creative ideas
-- 🌱 I’m currently learning to problem solve
-- 💞️ I’m looking to collaborate on creative ideas
+- 👀 I’m interested in working with people who can problem solve and collaborate with creative ideas
 - 📫 How to reach me ... www.jpmediaanddesign.com
 
 <!---
